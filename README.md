@@ -1,4 +1,4 @@
-Project NAME : Temperature_this is not me, you boi
+Project NAME : Temperature_this me
 
 Purpose : It convets the temperature from celsius to Fahrenhiet and Kelvin
 
