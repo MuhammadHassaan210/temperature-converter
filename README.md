@@ -1,4 +1,4 @@
-Project NAME : Temperature_Convertor
+Project NAME : Temperature_this is not me, you boi
 
 Purpose : It convets the temperature from celsius to Fahrenhiet and Kelvin
 
